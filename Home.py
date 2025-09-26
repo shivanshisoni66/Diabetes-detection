@@ -1,0 +1,6 @@
+import streamlit as st
+st.title("Welcome to the dashboard.")
+st.title("Diabetes Detection")
+st.image("assets\img2.webp")
+st.markdown("Diabetes is one of the most common chronic diseases, affecting millions of people worldwide" \
+"It occurs when the body cannot produce or properly use insulin, leading to high blood sugar levels.According to the World Health Organization (WHO), diabetes is a major cause of blindness, kidney failure, heart attack, and stroke. Early detection and management are essential to prevent such complications.Traditional diagnosis methods involve medical tests that may be costly and time-consuming. With the advancement of Machine Learning and Artificial Intelligence, it has become possible to develop predictive systems that can analyze health data and predict the chancesof diabetes efficiently. This project aims to build a Diabetes Detection System using machine learning algorithms that can assist in the early identification of diabetes based on key medical parameters. The proposed system is intended to serve as a decision-support tool for healthcare providers and as a preventive measure for individuals. ")
